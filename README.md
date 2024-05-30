@@ -1,5 +1,5 @@
 # GameOn
-
+![screenshot](https://geekified.net/wp-content/uploads/2016/07/gameon-logo-trans-black.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
